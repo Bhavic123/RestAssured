@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T11:06:43 IST" name="Default suite" finished-at="2024-02-05T11:06:45 IST" duration-ms="2120">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T11:06:43 IST" name="Default test" finished-at="2024-02-05T11:06:45 IST" duration-ms="2120">
+      <class name="Com_RestAssured_FrameWork.Http_Actions">
+        <test-method signature="readData()[pri:0, instance:Com_RestAssured_FrameWork.Http_Actions@1e1a0406]" started-at="2024-02-05T11:06:43 IST" name="readData" finished-at="2024-02-05T11:06:45 IST" duration-ms="2076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readData -->
+      </class> <!-- Com_RestAssured_FrameWork.Http_Actions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
